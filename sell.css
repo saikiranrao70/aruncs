@@ -43,7 +43,7 @@ padding:0;
 
 #header{
 height:95%;
-background-image: url('https://scontent.xx.fbcdn.net/v/t1.15752-9/300375852_459658642863843_1355704408954437894_n.jpg?stp=dst-jpg_s240x240&_nc_cat=110&ccb=1-7&_nc_sid=aee45a&_nc_ohc=OnQ54Dm85I8AX_YTdtd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVLbrRHjjU-l9pGPIq8Cm9DjkTe4lg4nt1cm0HYBB2NC3g&oe=635E000C');
+background-image: url('./quicksell-m-bg.jpg');
  background-size: 100% 100%;
 box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
